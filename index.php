@@ -10,6 +10,7 @@ for ($i = 0; $i < 10; $i++) {
 ?>
 
 <h1>Hello! itws new</h1>
+<button>button 1</button>
 
 //
 //$n = intval(trim(fgets(STDIN)));
